@@ -1,0 +1,16 @@
+header{
+	color: blue;
+	background-color: pink;
+	top: 0;
+}
+
+footer{
+  position: absolute;
+    width: 100%;
+    background-color: rgb(199, 213, 231);
+    bottom: 0;
+   }
+    
+    
+    body{
+    min-height: 100%}
